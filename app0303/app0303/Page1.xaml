@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="app0303.Page1">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image x:Name="img1" Source="C:\Users\drod_\source\repos\app0303\app0303\app0303.Android\Resources\drawable\C61.jpg"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
